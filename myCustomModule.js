@@ -6,4 +6,8 @@ const myTime = () =>{
     return new Date().getTime();
 }
 
-module.exports = {myDate, myTime};
+const msg = () =>{
+    return 'This is a custom module'
+}
+
+module.exports = {myDate, myTime, msg};
