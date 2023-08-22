@@ -14,8 +14,8 @@ http
       quality: 0.3,
       margin: 1,
       color: {
-        dark: "#010599FF",
-        light: "#FFBF60FF",
+        dark: "#000000",
+        light: "#FFFFFF",
       },
     };
 
