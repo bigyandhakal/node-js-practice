@@ -52,7 +52,7 @@ doc
   .fillColor('blue')
   .text('Here is a link!', 100, 100)
   .underline(100, 100, 160, 27, { color: '#0000FF' })
-  .link(100, 100, 160, 27, 'http://google.com/');
+  .link(100, 100, 160, 27, 'https://google.com/');
 
 // Finalize PDF file
 doc.end();
