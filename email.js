@@ -43,7 +43,7 @@ const messageOptions = {
     to: "bigyandhakal377@gmail.com", // list of receivers
     subject: "Hello ✔", // Subject line
     text: "Hello world, Bigyan Dhakal", // plain text body
-    html: "<b>Hello world?</b>", // html body
+    html: "<b>Hello world, Bigyan Dhakal</b>", // html body
 }
 
 main(messageOptions).catch(console.error);
