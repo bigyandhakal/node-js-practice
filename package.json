@@ -3,6 +3,7 @@
     "axios": "^1.4.0",
     "currency-converter-lt": "^2.0.0",
     "moment": "^2.29.4",
+    "nodemailer": "^6.9.4",
     "pdfkit": "^0.13.0",
     "qrcode": "^1.5.3",
     "upper-case": "^2.0.2"
